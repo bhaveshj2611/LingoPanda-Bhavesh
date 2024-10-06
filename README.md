@@ -5,7 +5,7 @@
 
 This repository contains the implementation of a **Comments App - LingoPanda** built with Flutter, showcasing Firebase Authentication, Remote Config, and the ability to fetch and display comments from an external API. 
 Check it out here
-[LingoPanda](lingopanda-bhavesh.web.app/)
+[LingoPanda](https://lingopanda-bhavesh.web.app/)
 ---
 
 ## Tasks Completed
