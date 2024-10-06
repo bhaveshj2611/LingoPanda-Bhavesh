@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096975857103",
+    "project_id": "lingopanda-bhavesh",
+    "storage_bucket": "lingopanda-bhavesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096975857103:android:1220ba095918bb90c00eba",
+        "android_client_info": {
+          "package_name": "com.example.bhavesh_lingopanda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJBo5Y9xfOfTlpZGPMfkPZPfqCitGgpI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
